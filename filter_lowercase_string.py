@@ -9,4 +9,4 @@ given_list = ["Python", "java", "C++", "ruby", "JavaScript"]
 filtered_lowercase_strings = [x.lower() for x in given_list if x[0] == x[0].upper()]
 
 #print the result
-print(new_list)
+print(filtered_lowercase_strings)
